@@ -10,3 +10,6 @@
 Test.create(stuff: "honk", number: 1)
 Test.create(stuff: "bonk", number: 2)
 Test.create(stuff: "chonk", number: 3)
+
+Pirate.create(pegleg: true)
+Pirate.create(pegleg: false)
